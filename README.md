@@ -4,7 +4,7 @@ Cara Run Project
   cd project-name
 ```
 
--   Copy .env.example file to .env and edit database credentials there
+-   Copy .env.example file ke .env dan edit database disana
 
 ```bash
     composer install
