@@ -1,19 +1,4 @@
-# Laravel 8 - Point of Sale Application
-
-## Screenshots
-
-![preview img](/preview.png)
-![preview img](/preview2.png)
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/abdulaziz-m5u/laravel-pos-app.git project-name
-```
-
-Go to the project directory
+Cara Run Project
 
 ```bash
   cd project-name
@@ -38,3 +23,5 @@ Go to the project directory
 -   email = admin@example.com
 -   password = 123
 "# Tubes_DPW_Tokoku" 
+
+
